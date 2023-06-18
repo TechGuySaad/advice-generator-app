@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.app{
+  background-color: #202733;
+}
+
+.card{
+  background-color: #313A48;
+  width: 540px;
+  box-shadow: 30px 50px 80px rgba(0, 0, 0, 0.100202);
+}
+
+h2{
+  color:#CEE3E9;;
+}
+
+h1{
+  color: #53FFAA;
+}
+
+button{
+  background-color: #53FFAA;
+  
+}
+
+button:hover{
+  box-shadow: 0px 0px 40px #53FFAA;
+}
